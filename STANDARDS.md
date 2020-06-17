@@ -6,5 +6,7 @@ Put links to resources that address particular standards. To learn how to use Gi
     * 1.1: Collaboraton
 
         * 1.1.1: Explain how collaboration affects the development of a solution.
+            * (OpenSourceEducation)[opensourceducation.md]
 
         * 1.1.2: Collaborate in the development of solutions
+            * (OpenSourceEducation)[opensourceducation.md]
