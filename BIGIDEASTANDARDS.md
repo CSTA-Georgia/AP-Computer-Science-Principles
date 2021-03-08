@@ -39,7 +39,7 @@ Put links to resources that address particular standards. To learn how to use Gi
     * CRD-2-EU: Developers create and innovate using an iterative design process that is user-focused, that incorporates implementation/feedback cycles, and that leaves ample room for experimentation and risk-taking.
 
     * CRD-2.A: Describe the purpose of a computing innovation.
-
+wwww.mycode.org
         * CRD-2.A.1: The purpose of computing innovations is to solve problems or to pursure interests through creative expression.
 
         * CRD-2.A.2: An understanding of the purpose of a computing innovation provides developers with an improved ability to develop that computing innovation.
