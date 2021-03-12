@@ -1,7 +1,7 @@
 # Computer Science Principles AP Pacing Guide #
 
 ## Unit 1 - Programming with Karel in Pyhton (CodeHS) ##
-(CodeHS Karel in Python Link) url[https://codehs.com/lms/assignment/25967901]
+[CodeHS Karel in Python Link](https://codehs.com/lms/assignment/25967901)
 
 ## Unit 2 - Python Programming ##
 
