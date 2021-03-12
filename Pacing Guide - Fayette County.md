@@ -10,22 +10,16 @@
 
 ## Unit 5 - Functions and Parameters ##
 
-## Unit 6 - Tell a Story ##
+## Unit 6 - Basic Data Structures ##
 
-## Unit 7 - Basic Data Structures ##
+## Unit 7 - Practice PT: Text Based Game ##
 
-## Unit 8 - Digital Information ##
+## Unit 8 - Practice PT: Productivity Application ##
 
-## Unit 9 - Practice PT: Steganograph ##
+## Unit 9 - Create Task ##
 
-## Unit 10 - Practice PT: Create an Image Filter ##
+## Unit 10 - Digital Information ##
 
 ## Unit 11 - The Internet ##
 
-## Unit 12 - Practice PT: The Effects of the Internet ##
-
-## Unit 13 - Data ##
-
-## Unit 14 - Practice PT: Present a Data-Driven Insight ##
-
-## Unit 15 - Create Task ##
+## Unit 12 - Data ##
