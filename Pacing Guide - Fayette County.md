@@ -1,25 +1,23 @@
 # Computer Science Principles AP Pacing Guide #
 
-## Unit 1 - Programming with Karel ##
+## Unit 1 - Programming with Karel in Pyhton (CodeHS)##
 
-## Unit 2 - Pair Programming ##
+## Unit 2 - Python Programming ##
 
-## Unit 3 - Python Programming ##
+## Unit 3 - Python Control Structures ##
 
-## Unit 4 - Python Control Structures ##
+## Unit 4 - Functions and Parameters ##
 
-## Unit 5 - Functions and Parameters ##
+## Unit 5 - Basic Data Structures ##
 
-## Unit 6 - Basic Data Structures ##
+## Unit 6 - Practice PT: Text Based Game ##
 
-## Unit 7 - Practice PT: Text Based Game ##
+## Unit 7 - Practice PT: Productivity Application ##
 
-## Unit 8 - Practice PT: Productivity Application ##
+## Unit 8 - Create Task ##
 
-## Unit 9 - Create Task ##
+## Unit 9 - Digital Information ##
 
-## Unit 10 - Digital Information ##
+## Unit 10 - The Internet ##
 
-## Unit 11 - The Internet ##
-
-## Unit 12 - Data ##
+## Unit 11 - Data ##
